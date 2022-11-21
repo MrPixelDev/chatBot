@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mari/static/css/main.94b7e139.css",
+    "main.js": "/mari/static/js/main.b940d1f3.js",
+    "static/js/787.0a28d75e.chunk.js": "/mari/static/js/787.0a28d75e.chunk.js",
+    "index.html": "/mari/index.html",
+    "main.94b7e139.css.map": "/mari/static/css/main.94b7e139.css.map",
+    "main.b940d1f3.js.map": "/mari/static/js/main.b940d1f3.js.map",
+    "787.0a28d75e.chunk.js.map": "/mari/static/js/787.0a28d75e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94b7e139.css",
+    "static/js/main.b940d1f3.js"
+  ]
+}
